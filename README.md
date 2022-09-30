@@ -1,2 +1,2 @@
 # Space Invaders!  
-Quick Space Invader game created in python for final project
+Quick Space Invader game created with py game for a final project in my python lecture
