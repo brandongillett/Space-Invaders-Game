@@ -10,7 +10,7 @@
 
 ---
 <h3 align="center">
-  This project was created during a python lecture, where the final project was to create a game using pygame. The main takeaway from this project was simple rendering in a higher-level programming language (Python).
+  Welcome to Space Invaders, an exciting project that brings back the nostalgia of classic arcade games. Let me take you on a journey through this captivating project, highlighting its key aspects and the programming styles employed.
   </p>
   </h3>
 
@@ -24,7 +24,9 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-The purpose of this project was to get an in-depth understanding of object-oriented programming in Python as well as using pip packages such as pygame to render game models and register keystrokes. This was definitely not the hardest project I have taken on, but never the less, this was quite challenging, even with walkthroughs taught by my professor during lectures.
+Space Invaders was developed as part of a Python lecture, where the ultimate challenge was to create a game using the powerful Pygame package. This project served as an opportunity to explore the realm of game development while honing skills in rendering game models and handling user input.
+
+The game revolves around defending the planet from invading alien forces by maneuvering a spaceship and shooting down the relentless invaders. By building this game, I gained hands-on experience in high-level programming languages like Python and witnessed firsthand the simplicity and effectiveness of game rendering in such environments.
 ## 🏁 Getting Started <a name = "getting_started"></a>
 All you will need to get started is an updated version of Python3.
 
