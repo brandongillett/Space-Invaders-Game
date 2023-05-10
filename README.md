@@ -41,18 +41,15 @@ sudo apt install python3
 Pygame-
 ```
 python3 -m pip install pygame
-
 ```
 
 Font Config-
 ```
 sudo apt-get install fontconfig
-
 ```
 
 ### Running
 After downloading Python3 and installing prerequisites you can now run the game using following command!
-
 ```
 python3 main.py
 ```
